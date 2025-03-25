@@ -1,3 +1,4 @@
+'use client'
 import PublicationsList from "./components/publications-list";
 import ContactSection from "./components/homepage/contact";
 import Timeline from "./components/timeline";
